@@ -3,6 +3,8 @@ package com.atguigu.gitpro;
 public class Love {
 
 	public static void main(String[] args) {
-		System.out.println("ÀÁµÃÏë¹ÊÊÂ£¬¾ÍÕâÑù°É");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Â£ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
+		System.out.println("Who are you ?");
+		System.out.println("Are you a handsome boy????");
 	}
 }
