@@ -7,6 +7,6 @@ public class Love {
 		System.out.println("Who are you ?");
 		System.out.println("Are you a handsome boy????");
 		System.out.println("新功能》》》》》》》》》");
-		System.out.println("........");
+		System.out.println("........1111");
 	}
 }
